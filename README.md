@@ -1,2 +1,4 @@
 # Checker-de-validade-de-Cart-es-usando-algoritimo-de-Luhn
 Checker da validade de Cartões usando algoritimo de Luhn, simples de manusear, e bem coompreensivo para o usuário.
+ IMPORTANTE: o usuário deve escrever o número do cartão de forma sem espaçamentos, a fim de uma leitura apropriada do código. 
+Através do uso do algoritimo usando a fórmula de Luhn, descriptografando o número dos cartões, é possível verificar a validade do mesmo. No console, o usuário deve inserir o número completo do cartão(sem necessidade de maiores informações) para a realização da checagem da validade. Após o uso, o usuário pode decidir colocar um novo número para o mesmo procedimento ou finalizar o programa com apenas uma instância de uso. Não há necessidade de preocupações a respeito de vazamento de informações desde que o projeto não possui um banco de dados.
