@@ -2,7 +2,7 @@ working = True
 while working:
     while True:
         try:
-            X = int(input("Digite o numero do seu Cartao para verificar se ele e valido: [escreva somente numeros, sem espacamento] " ))
+            X = int(input("Digite o numero do seu Cartao para verificar se ele e valido: [escreva somente numeros, sem espacamento]:  " ))
             break
         except ValueError:
             print('Digite apenas numeros: ')
@@ -41,3 +41,4 @@ while working:
         else:
             print("Por favor, digite S para Sim e N para Nao")
             continue
+
